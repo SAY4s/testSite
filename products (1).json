@@ -1,0 +1,35 @@
+[
+  {
+    "id": "p1",
+    "name": "نمونه‌ی اول",
+    "category": "general",
+    "price": 100000,
+    "unit": "عدد",
+    "stock": null,
+    "sku": "SAMPLE-1",
+    "image": "",
+    "description": "این یک نمونه است. از پنل مدیریت ← محصولات، آن را ویرایش یا حذف کنید."
+  },
+  {
+    "id": "p2",
+    "name": "نمونه‌ی دوم",
+    "category": "general",
+    "price": 250000,
+    "unit": "عدد",
+    "stock": null,
+    "sku": "SAMPLE-2",
+    "image": "",
+    "description": "توضیحات این مورد را از پنل مدیریت تغییر دهید."
+  },
+  {
+    "id": "p3",
+    "name": "نمونه‌ی سوم",
+    "category": "general",
+    "price": 0,
+    "unit": "",
+    "stock": null,
+    "sku": "SAMPLE-3",
+    "image": "",
+    "description": "قیمت صفر در حالت خدماتی به‌صورت «قیمت توافقی» نمایش داده می‌شود."
+  }
+]
